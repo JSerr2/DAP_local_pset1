@@ -182,7 +182,6 @@ plot_state_in_distribution <- function(state, industry) {
   print(plot_diff)
 }
 
-plot_state_in_distribution("California", "Information")
 
 
 
